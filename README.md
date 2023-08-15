@@ -1,7 +1,7 @@
-# mi-portfolio
+# voice-recorder-with-python
 
 ## Descripcion
-Este es una grabadora basica de voz que funciona con menos de lineas de codigo
+Este es una grabadora basica de voz que funciona con menos de 10 lineas de codigo
 ## Autor
 *Eliud Duno*
 
